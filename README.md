@@ -19,21 +19,3 @@ Meu nome é Pedro Luiz, tenho 21 anos e sou estudante de Sistemas de Informaçã
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo"  />
 </div>
-
-<h2>📝 Status</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=eupedroluizz&layout=compact&theme=dracula&hide_border=false&title_color=bd93f9&text_color=ffffff" 
-       height="160" 
-       alt="WakaTime Stats" />
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=eupedroluizz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&title_color=bd93f9&text_color=ffffff" 
-       height="160" 
-       alt="Gráfico de Linguagens" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=eupedroluizz&show_icons=true&theme=dracula&hide_border=false&title_color=bd93f9&text_color=ffffff" 
-       height="160" 
-       alt="GitHub Stats" />
-</div>
