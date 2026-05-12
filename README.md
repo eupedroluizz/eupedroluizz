@@ -1,5 +1,7 @@
+# 🧑🏽‍💻 Pedro Luiz Marques
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=PEDRO LUIZ MARQUES; Back-End Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=PEDRO+LUIZ+MARQUES;Back-End+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,8 +25,8 @@ Meu nome é Pedro Luiz, tenho 21 anos e sou estudante de Sistemas de Informaçã
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eupedroluizz&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eupedroluizz&layout=compact&theme=dracula&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
 </div>
 
 ## 📫 Como me encontrar
