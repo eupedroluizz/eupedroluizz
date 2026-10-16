@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Meu nome é Pedro Luiz, tenho 21 anos e sou um desenvolvedor com foco no Back-End. Atualmente, estou no 4º período de Sistemas de Informação na Universidade Federal do Piauí (UFPI). 
+Meu nome é Pedro Luiz, tenho 22 anos e sou um desenvolvedor com foco no Back-End. Atualmente, estou no 4º período de Sistemas de Informação na Universidade Federal do Piauí (UFPI). 
 Tenho um forte interesse em arquitetura de software e gosto de explorar novas tecnologias para resolver problemas complexos de forma lógica e escalável. Atualmente, meu foco de estudo envolve o aprofundamento contínuo em linguagens de programação, modelagem de banco de dados e ambientes conteinerizados, sempre buscando projetos práticos para aplicar e consolidar o que aprendo.
 
 ## Linguagens e Tecnologias
